@@ -1,2 +1,15 @@
-# jonatan-proyecto-intermodular-dam-2025
-Repositorio principal sobre el desarrollo de mi proyecto académico de DAM 2024-24 
+# Proyecto intermodular, DAM 2024-25
+
+El proyecto consiste en el desarrollo de una aplicación de compra y venta de productos entre usuarios.
+
+## Tecnologías utilizadas.
+- Primer tecnología.
+- Segunda tecnología.
+- Tercer tecnología.
+
+## Instrucciones de instalación y ejecución (si aplica).
+
+## Capturas de pantalla del proyecto funcionando (si aplica).
+
+## Créditos o autores del proyecto.
+ Jonatan Josué Cruz Bueso.
