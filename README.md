@@ -1,4 +1,4 @@
-# Proyecto intermodular, DAM 2024-25
+# Proyecto intermodular, DAM 2025-26
 
 El proyecto consiste en el desarrollo de una aplicación de compra y venta de productos entre usuarios.
 
@@ -13,3 +13,4 @@ El proyecto consiste en el desarrollo de una aplicación de compra y venta de pr
 
 ## Créditos o autores del proyecto.
  Jonatan Josué Cruz Bueso.
+ Jose Miguel Sentamans Dasí.
